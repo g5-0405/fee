@@ -1,0 +1,17 @@
+js, props, ui, web application, forms, router, component, onSubmit, multipages, react,  zustand, ux, 
+map, filter, onClick, state, buttons, links, validation, css, function, global state, nested routes
+
+UI - User Interface (UI) in React refers to the part of a web application that users 
+interact with. React uses reusable components to build UI efficiently. It allows to 
+create interactive elements, update data dynamically, and manage changes without reloading the 
+entire webpage. It makes applications faster, flexible, and user-friendly.
+
+UI summary - React builds interactive, reusable, and dynamic user interfaces using components.
+
+React Router is used to create multipage web applications in React without reloading entire page. 
+It allows navigation between different components using routes, links and nested routes. 
+It improves user experience by making navigation smooth, organized and efficient.
+
+Zustand is a lightweight state management library used in React applications. 
+It helps manage global state across multiple components without passing props repeatedly 
+and easier to manage. 
