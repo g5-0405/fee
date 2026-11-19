@@ -15,3 +15,8 @@ It improves user experience by making navigation smooth, organized and efficient
 Zustand is a lightweight state management library used in React applications. 
 It helps manage global state across multiple components without passing props repeatedly 
 and easier to manage. 
+
+Props- 
+props (properties) are used to pass data from a parent component to child component in react. 
+They make components reusable and help maitain a structured application. Props are read-only 
+meaning a child component cannot directly modify the values recieved from its parent
